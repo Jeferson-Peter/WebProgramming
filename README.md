@@ -1,1 +1,3 @@
 # WebProgramming
+
+Iniciando estudos em programação com Java, Jsp, Jpa...
